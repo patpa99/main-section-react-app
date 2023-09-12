@@ -1,1 +1,5 @@
-# main-section-react-app
+# **Main section React App**
+
+This is a micro-app from the OCC.
+
+For more information read my master's thesis.
